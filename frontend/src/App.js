@@ -6,7 +6,7 @@ function App() {
       <header className="row">
         <div>
           <a className="brand" href="/">
-            GIS Skills
+            GIS Skill
           </a>
         </div>
         <div>
